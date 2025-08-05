@@ -20,8 +20,8 @@
 
 <h2>Пошаговое руководство:</h2>
 <p align="center">
-  <b>Шаг 1:</b> Запустите утилиту: <br/>
-  <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Запуск утилиты"/><br/><br/>
+  <b>Шаг 1:</b> Для входа в систему используйте свой email и пароль. Если у вас нет аккаунта, зарегистрируйтесь по кнопке "Зарегистрироваться". <br/>
+  <img src="{{ asset('login.png') }}" height="80%" width="80%" alt="Запуск утилиты"/><br/><br/>
   
   <b>Шаг 2:</b> Выберите диск: <br/>
   <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Выбор диска"/><br/><br/>
